@@ -1,3 +1,4 @@
+
 # 🌟 Data Science & Analytics Journey
 
 Welcome to my **Data Science and Analytics learning journey**! This repository is designed for **complete beginners** who want to learn data science, analytics, and Python programming from scratch.  
@@ -99,3 +100,6 @@ If you have suggestions, questions, or want to share your progress, feel free to
 ---
 
 Happy Learning! 🎉  
+
+# Data-Science-Journey
+"📊 Beginner-friendly Data Science &amp; Analytics journey — daily concepts, hands-on tasks, and resources to learn Python, data analysis, and visualization from scratch!"
